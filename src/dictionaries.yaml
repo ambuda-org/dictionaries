@@ -1,0 +1,41 @@
+dictionaries:
+  - name: Amara
+    title: अमरकोशः
+    slug: amara
+    url: "https://raw.githubusercontent.com/indic-dict/stardict-sanskrit/master/sa-head/sa-entries/amara-onto/amara-onto.babylon"
+    package_type: TEXT
+  - name: Apte
+    title: "Apte Practical Sanskrit-English Dictionary (1890)"
+    slug: apte
+    url: "https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/downloads/ap90xml.zip"
+    package_type: ZIP
+  - name: Apte-Hindi
+    title: "Apte Practical Sanskrit-English Dictionary (1890)"
+    slug: apte-hindi
+    url: "https://github.com/samsaadhanii/scl/raw/master/MT/data/hi/Apte_dict/"
+    package_type: XML
+  - name: Monier
+    title: "Monier-Williams Sanskrit-English Dictionary (1899)"
+    slug: MW
+    url: "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/downloads/mwxml.zip"
+    package_type: ZIP
+  - name: Shabdakalpadruma
+    title: "Śabdakalpadrumaḥ (1886)"
+    slug: shabdakalpadruma
+    url: "https://www.sanskrit-lexicon.uni-koeln.de/scans/SKDScan/2013/downloads/skdxml.zip"
+    package_type: ZIP
+  - name: shabdartha_kaustubha
+    title: "Shabdarthakaustubha"
+    slug: Shabdarthakaustubha
+    url: "https://raw.githubusercontent.com/indic-dict/stardict-sanskrit/raw/master/sa-head/other-indic-entries/shabdArtha_kaustubha/shabdArtha_kaustubha.babylon"
+    package_type: XML
+  - name: shabdasagara
+    title: "Shabda-Sagara (1900)"
+    slug: shabdasagara
+    url: "https://www.sanskrit-lexicon.uni-koeln.de/scans/SHSScan/2020/downloads/shsxml.zip"
+    package_type: ZIP
+  - name: vacaspatyam
+    title: "Vācaspatyam (1873)"
+    slug: vacaspatyam
+    url: "https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/2020/downloads/vcpxml.zip"
+    package_type: ZIP
